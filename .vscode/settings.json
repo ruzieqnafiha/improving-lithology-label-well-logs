@@ -1,3 +1,4 @@
 {
-    "notebook.backup.sizeLimit": 1000000000
+    "notebook.backup.sizeLimit": 1000000000,
+    "explorer.sortOrder": "modified"
 }
