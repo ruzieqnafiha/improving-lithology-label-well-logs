@@ -97,7 +97,8 @@ This project is intended to be run in a local Jupyter environment. For deploymen
 - [Pandas](https://pandas.pydata.org/) - Data Analysis Library
 - [Matplotlib](https://matplotlib.org/) - Plotting Library
 - [Seaborn](https://seaborn.pydata.org/) - Statistical Data Visualization
-- [Scikit-learn](https://scikit-learn.org/) - Machine Learning Library
+- [SciPy](https://scipy.org/) - Scientific Computing Library (dendogram and hierarchy)
+- [Scikit-learn](https://scikit-learn.org/) - Machine Learning Library (k-means clustering)
 
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
